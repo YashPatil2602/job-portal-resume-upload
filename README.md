@@ -16,3 +16,4 @@ Notes:
 - Uploaded resumes are stored in backend/uploads/resumes and are mounted into the container.
 ## Latest Update
 ## Latest Update
+- Updated README for GitHub contribution tracking.
