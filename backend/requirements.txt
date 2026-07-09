@@ -6,3 +6,4 @@ pymysql
 python-dotenv
 bcrypt
 werkzeug
+flask-migrate
