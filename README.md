@@ -15,3 +15,4 @@ Notes:
 - The backend service reads environment variable DATABASE_URI to connect to the database. The docker-compose.yml provides a connection using the "db" service name.
 - Uploaded resumes are stored in backend/uploads/resumes and are mounted into the container.
 ## Latest Update
+## Latest Update
